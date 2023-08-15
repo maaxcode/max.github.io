@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const selectDropdown = document.createElement("select");
         const option1 = document.createElement("option");
         option1.value = "Option 1";
-        option1.textContent = "Option 1";
+        option1.textContent = "test";
         const option2 = document.createElement("option");
         option2.value = "Option 2";
         option2.textContent = "Option 2";
